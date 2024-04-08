@@ -1,8 +1,9 @@
 <div align=center>
 
-<br>
+<br>![iictmsl]
 
-<img height=80 src="/profile/images/iictmsl.png#gh-dark-mode-only" alt="IIC TMSL Light Logo">
+
+<img height=80 src="(https://github.com/iictech27/iictech27/assets/166435260/545241dd-34f7-4941-a1dd-2d306e47c675)" alt="IIC TMSL Light Logo">
 <img height=80 src="/profile/images/iictmsl.png#gh-light-mode-only" alt="IIC TMSL Dark Logo">
 
 <br>
